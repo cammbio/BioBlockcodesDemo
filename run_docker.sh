@@ -1,4 +1,4 @@
 #!/usr/bin/bash
-docker build --tag bioblockcodes .
+docker build --tag gcat-blockcodes-demo .
 # Run image in container: 
-docker run -p 8042:8042 bioblockcodes
+docker run -p 8042:8042 gcat-blockcodes-demo
