@@ -1,0 +1,5 @@
+# Keep LF line endings for scripts and Docker files on every OS (esp. Windows checkouts).
+*.sh       text eol=lf
+Dockerfile text eol=lf
+*.jl       text eol=lf
+*.toml     text eol=lf

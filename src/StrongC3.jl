@@ -99,7 +99,7 @@ end
 md"strong circular: $(is_strong_c3(cgd))"
 
 # ╔═╡ 8c946d4f-ed68-4e86-be2e-126d6bc80bfb
-md"**GCAT UI** v.0.1.0. (c) 2026 [cammbio institute](https://www.cammbio.th-mannheim.de) and authors mentioned in the source files."
+md"**GCAT UI** v.0.1.1. (c) 2026 [cammbio institute](https://www.cammbio.th-mannheim.de) and authors mentioned in the source files."
 
 # ╔═╡ 48c26e0a-38fc-4848-ba16-80409f87178c
 # Format the web page:
